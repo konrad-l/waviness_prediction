@@ -9,4 +9,6 @@ The following machine learning models were used: Linear regression, Random Fores
 - Python
 - Pandas
 - Scikit-learn
+- XGBoost
 - Plotly
+- SHAP
